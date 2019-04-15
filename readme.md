@@ -9,7 +9,7 @@ Or simply download [master zip](https://github.com/R3DIANCE/PHP-MariaDB-MySQL-NG
 
 3. You may want to configure your timezone,
 
-4. Navigate to folder php \ php-7.3.4\ > Edit file: php.ini (line 960)
+4. Navigate to folder ``php \ php-7.3.4\`` > Edit file: ``php.ini`` (line 960)
 
 5. You can get the full list here: [Timezone list](https://gist.github.com/R3DIANCE/8f91986900f6dfe293ec9f80f1aa8fde)
 
