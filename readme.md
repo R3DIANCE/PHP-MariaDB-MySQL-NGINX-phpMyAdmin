@@ -1,9 +1,9 @@
 PHP MariaDB(MySQL) NGINX phpMyAdmin for Windows (portable).
 
 # installation?
-1. Clone it ``git clone https://github.com/R3DIANCE/PHP-MariaDB-NGINX-phpMyAdmin.git``
+1. Clone it ``git clone https://github.com/R3DIANCE/PHP-MariaDB-MySQL-NGINX-phpMyAdmin.git``
 
-Or simply download [master zip](https://github.com/R3DIANCE/PHP-MariaDB-NGINX-phpMyAdmin/archive/master.zip).
+Or simply download [master zip](https://github.com/R3DIANCE/PHP-MariaDB-MySQL-NGINX-phpMyAdmin/archive/master.zip).
 
 2. Unzip it wherever you want.
 
