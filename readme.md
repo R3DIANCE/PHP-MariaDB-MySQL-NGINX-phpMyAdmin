@@ -15,7 +15,7 @@ Or simply download [master zip](https://github.com/R3DIANCE/PHP-MariaDB-MySQL-NG
 
 6. You can edit ports to your own choice edit in file: ``conf\nginx.conf``
 
-7. You done you.
+7. You done.
 
 
 ## NGINX
